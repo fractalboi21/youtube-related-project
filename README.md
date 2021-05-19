@@ -1,2 +1,4 @@
 # youtube-related-project
-This is repo which created to showcase my tools that made using youtube dta
+tools that i made using youtube data api v3 and python3.
+
+if you copy my code give credits.
