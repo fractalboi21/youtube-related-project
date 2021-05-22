@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>BCT Tag Cloud Chart 03</title>
+  <link href="https://playground.anychart.com/docs/samples/BCT_Tag_Cloud_Chart_03/iframe" rel="canonical">
+  <meta content="Tag Cloud,Weighted List Chart,Word Cloud" name="keywords">
+  <meta content="AnyChart - JavaScript Charts designed to be embedded and integrated" name="description">
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+  <link href="https://cdn.anychart.com/releases/8.10.0/css/anychart-ui.min.css?hcode=a0c21fc77e1449cc86299c5faa067dc4" rel="stylesheet" type="text/css">
+  <style>html, body, #container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}</style>
+ </head>
+ <body>
+ <h1>Meta tags</h1>
+  <div id="container"></div>
+  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-base.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-tag-cloud.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-exports.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.10.0/js/anychart-ui.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script type="text/javascript">anychart.onDocumentReady(function () {
+
+    // create data
+    
+    var data = {{ tags | safe }};
+
+    // create a chart
+    var chart = anychart.tagCloud();
+
+    // set the parsing mode and configure parsing settings
+    chart.data(data, {
+    mode: "by-word",
+    maxItems: 100,
+    ignoreItems: [
+                  "the",
+                  "and",
+                  "he",
+                  "or",
+                  "of",
+                  "in",
+                  "thy",
+                 ]
+    });
+
+    // set the chart title
+    chart.title("Tag Cloud Chart: Data (Parsing Text)");
+
+    // set the container id
+    chart.container("container");
+
+    // initiate drawing the chart
+    chart.draw();
+});</script>
+ </body>
+</html>
