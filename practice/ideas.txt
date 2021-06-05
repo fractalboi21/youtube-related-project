@@ -1,0 +1,22 @@
+some functions that needs to be created
+-get channel id using video id
+-get total number of videos from a youtube channel using channel id
+-get list of all video id from a youtube channel using channel id 
+-get all information about a video using video id
+-get total number views from a youtube channel using chanel id
+-get total number of playlist and their playlist id
+-get all video information in csv, sqlite3, txt using channel id
+-get the most liked video from a youtube channel using channel id
+-get the most dis-liked video from a youtube channel using channel id
+-get the age of the channel using channel id
+-get the video with most comments in the yotube channel using channel id
+-get meta tags using video id
+-get list of all links from video description using channel id
+-get urls from a text 
+-get list of video id from playlist using playlist id
+-get total length of a playlist using playlist id 
+-get the longest video based on time-length from a youtube channel using channel id
+-get the oldest video from a youtube channel
+
+
+
