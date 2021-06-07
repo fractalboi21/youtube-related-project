@@ -15,14 +15,11 @@
 # https://www.youtube.com/watch?v=DVQ29IkEmM0
 
 
-
-def getVideoIdFromYoutubeLink(url):
+def get_video_id_from_youtube_link(url):
     url = url.split("//")[1].split("/")[-1]
     if url[0:8] == "watch?v=":
-        urlwv = url.split("=")[1]
-        return urlwv
+        video_id = url.split("=")[1]
+        return video_id
     else:
-        return url
+        return video_id
 
-#for link in links:
-#    print(getVideoIdFromYoutubeLink(link))
