@@ -22,8 +22,12 @@ search response
 ```
 https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=helloworld&key=[YOUR_API_KEY]
 ```
-comment threads
+comment threads response
 ```
 https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&part=replies&videoId=sW9npZVpiMI&key=[YOUR_API_KEY]
+```
+channles response
+```
+https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&part=contentDetails&part=statistics&id=UC4JX40jDee_tINbkjycV4Sg&key=[YOUR_API_KEY]
 ```
 
