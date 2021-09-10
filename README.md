@@ -18,5 +18,8 @@ video response
 ```
 https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&part=snippet&part=snippet&id=sW9npZVpiMI&prettyPrint=true&key=[YOUR_API_KEY]
 ```
-
+search response
+```
+https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=helloworld&key=[YOUR_API_KEY]
+```
 
