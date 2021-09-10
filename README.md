@@ -14,5 +14,9 @@ playlist response
 https://youtube.googleapis.com/youtube/v3/playlists?part=contentDetails&part=snippet&channelId=UCCWp4CCmI2JmIaoAuv0ocEA&key=[YOUR_API_KEY]
 ```
 
+video response
+```
+https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&part=snippet&part=snippet&id=sW9npZVpiMI&prettyPrint=true&key=[YOUR_API_KEY]
+```
 
 
