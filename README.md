@@ -29,4 +29,8 @@ channles response
 ```
 https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&part=contentDetails&part=statistics&id=UC4JX40jDee_tINbkjycV4Sg&key=[YOUR_API_KEY]
 ```
+```
+https://www.googleapis.com/youtube/v3/search?part=snippet&statistics&type=channel&q=ugly&maxResults=50&key=AIzaSyDhzUyksZsIN-OsKTMNdDs_yh0_khuV90Y
+```
+
 
