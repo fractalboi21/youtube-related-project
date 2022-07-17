@@ -1,0 +1,461 @@
+gzip file compression in 100 Seconds
+Cassandra in 100 Seconds
+Is "edge" computing really faster?
+JavaScript just got way faster
+a fresh new web framework is out
+Storybook in 100 Seconds
+My Bleeding Edge Tech Stack for 2025
+100+ Web Development Things you Should Know
+Web5... The Web3 Killer?
+FORTRAN in 100 Seconds
+Redwood in 100 Seconds
+LLVM in 100 Seconds
+10 Programmer Stereotypes
+Julia in 100 Seconds
+Solid in 100 Seconds
+Is the tech bubble bursting right now?
+Tauri in 100 Seconds
+100+ Computer Science Concepts Explained
+Perl in 100 Seconds
+The Nuxt big thing in web development?
+React for the Haters in 100 Seconds
+Redux in 100 Seconds
+Assembly Language in 100 Seconds
+The Parallax Effect // 5 Minute WebDev Project
+Elixir in 100 Seconds
+DALL-E is coming... World-changing AI image generator
+I built 10 web apps... with 10 different languages
+client got faded, I got paid
+Java for the Haters in 100 Seconds
+Cypress in 100 Seconds
+I use Arch on an M1 MacBook, btw
+my code works… why?
+Binary Search Algorithm in 100 Seconds
+10 very promising Open Source Projects you haven’t heard of
+Time… a programmer's worst enemy // The Code Report
+10 Design Patterns Explained in 10 Minutes
+Linux in 100 Seconds
+A heroic new proposal for JavaScript // The Code Report
+React Query in 100 Seconds
+Unity in 100 Seconds
+This video was made with code. But how?
+10 React Antipatterns to Avoid - Code This, Not That!
+I feel cyber attacked // The Code Report
+Vite in 100 Seconds
+The Shocking State of JavaScript // The Code Report
+Firebase in 100 Seconds
+7 ways to deal with CSS
+Lua in 100 Seconds
+What happens if you hack 4.5 billion BTC? // The Code Report
+How to Learn to Code - 8 Hard Truths
+C++ in 100 Seconds
+BIG new feature lands in Node.js // The Code Report
+How I post banger tweets with artificial intelligence // Twitter Bot Tutorial
+How a CS student tracks Elon’s Private Jet with Python // The Code Report
+Ruby in 100 Seconds
+I created a Command Line Game for you // 5-Minute Node.js CLI Project
+Prisma in 100 Seconds
+How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies
+How to Land a 100K/yr Tech Job - 10 Strategies
+Build a WEB3 app to mint unlimited NFTs… But should you?
+JavaScript in 100 Seconds
+Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js & Redis
+The Dark Side of Open Source // What really happened to Faker.js?
+Binary Explained in 01100100 Seconds
+How to get a Million YouTube Subscribers in 100 Seconds
+CSS in 100 Seconds
+Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx
+Brainf**k in 100 Seconds
+Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers
+r u even turing complete?
+C# in 100 Seconds
+HTML in 100 Seconds
+Web 1.0-beta
+2022 is gonna be wild for developers...
+Haskell in 100 Seconds
+VS Code in 100 Seconds
+Remix is a NEW JavaScript framework you MUST try
+Swift in 100 Seconds
+Flutter Basic Training - 12 Minute Bootcamp
+WTF is a Bézier Curve?
+C in 100 Seconds
+Shopify built a JS Framework // Hydrogen First Look
+Kotlin in 100 Seconds
+Java in 100 Seconds
+i quit using console.log in prod
+7 Cryptography Concepts EVERY Developer Should Know
+Make Money from your API Tutorial
+Next.js 12 is a Beast
+WTF is an Abstract Syntax Tree?
+Python in 100 Seconds
+PHP in 100 Seconds
+Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar
+Auth0 in 100 Seconds // And beyond with a Next.js Authentication Tutorial
+It works on localhost
+Dart in 100 Seconds
+Rust in 100 Seconds
+Go in 100 Seconds
+React Native vs Flutter - I built the same chat app with both
+React Native in 100 Seconds
+Solidity in 100 Seconds
+How to OVER Engineer a Website // What is a Tech Stack?
+D3.js in 100 Seconds
+Content Platforms Explained in 100 Seconds // Build your own with Sanity
+How to "Google It" like a Senior Software Engineer
+Springy Animated Modals // Framer Motion & React Tutorial for Beginners
+Machine Learning Explained in 100 Seconds
+13 Advanced (but useful) Git Techniques and Shortcuts
+PostCSS in 100 Seconds
+I built a decentralized chat dapp // GUN web3 Tutorial
+Tailwind in 100 Seconds
+Awesome User Avatars Made Easy
+Bash in 100 Seconds
+Build a Curvaceous Homepage // Wavy Background Tutorial with SVG & CSS
+Reacting to Controversial Opinions of Software Engineers
+I built the same app 10 times // Which JS Framework is best?
+This weird skill helps you learn to code faster
+The Decline of Firebase (bundle sizes) // New JavaScript SDK First Look
+NestJS in 100 Seconds
+Terraform in 100 Seconds
+Quick overview of CSS
+7 Ways to Deploy a Node.js App
+Astro in 100 Seconds
+MongoDB in 100 Seconds
+Why do computers use RGB for colors, and not RBY?
+21+ Browser Dev Tools & Tips You Need To Know
+Redis in 100 Seconds
+Is your memory leaking?
+DNS Explained in 100 Seconds
+The Truth about Github Copilot // AI Programming First Look
+TypeScript is Literal Magic
+Top 50+ AWS Services Explained in 10 Minutes
+Google Sheets… Your Next Database?
+Build 5 Apps in 5 Minutes with Flutter… But should you?
+God Tier HTML Programming
+Closures Explained in 100 Seconds // Tricky JavaScript Interview Prep
+Why do computers suck at math?
+25 VS Code Productivity Tips and Speed Hacks
+Hasura in 100 Seconds
+Async Await try-catch hell
+GUN Decentralized Graph DB in 100 Seconds
+Test-Driven Development // Fun TDD Introduction with JavaScript
+Fullstack Development Iceberg #Shorts
+Software Testing Explained in 100 Seconds
+Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial
+WebGL 3D Graphics Explained in 100 Seconds
+How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9
+Is Supabase Legit? Firebase Alternative Breakdown
+Sass in 100 Seconds
+I've become my own Arch Enemy #shorts
+Ethical Hacking in 100 Seconds // And why do we need CORS?
+How to use TypeScript with React... But should you?
+MySQL - The Basics // Learn SQL in 23 Easy Steps
+3 More Life-Changing CSS Tips
+Svelte in 100 Seconds
+TODO: Write Good Code Comments #Shorts
+10 CSS Pro Tips - Code this, NOT that!
+Easy Hand-Drawn SVG Animation #Shorts
+SQL Explained in 100 Seconds
+Top 3 Ways to Center a DIV with CSS #Shorts
+Get Paid with Crypto in your App // Coinbase Commerce Tutorial
+Delete node_modules like a Pro #Shorts
+CORS in 100 Seconds
+Roko's Basilisk (skip this one) #Shorts
+Make Awesome SVG Animations with CSS // 7 Useful Techniques
+Reverse Engineer CSS Animations #Shorts
+SVG Explained in 100 Seconds
+4 Steps to Become a Developer #Shorts
+Why so many distros? The Weird History of Linux
+VS Code Path Trick w/ JavaScript #Shorts
+7 Linux Things You Say WRONG #Shorts
+Serverless Computing in 100 Seconds
+WebRTC in 100 Seconds // Build a Video Chat app from Scratch
+Bitcoin ₿ in 100 Seconds // Build your Own Blockchain
+Invite Only! Use FOMO to grow your app // Exclusive Phone SignIn Tutorial
+RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express
+Dgraph Graph Database in 100 Seconds
+GraphQL Explained in 100 Seconds
+Linux Directories Explained in 100 Seconds
+Vim in 100 Seconds
+SEO for Developers in 100 Seconds
+~/.dotfiles in 100 Seconds
+Fork you ElasticSearch! How Open Source Works
+? in NaN Seconds
+Raspberry Pi Explained in 100 Seconds
+10 React Hooks Explained // Plus Build your own from Scratch
+Raspberry Pi versus AWS // How to host your website on the RPi4
+JS Destructuring in 100 Seconds
+7 Web Features You Didn’t Know Existed
+Next.js in 100 Seconds // Plus Full Beginner's Tutorial
+Progressive Web Apps in 100 Seconds // Build a PWA from Scratch
+How to Burn Money in the Cloud // Avoid AWS, GCP, Azure Cost Disasters
+WebSockets in 100 Seconds & Beyond with Socket.io
+2021 Tech Trends & Predictions for Developers
+Firebase Security in 100 Seconds
+TypeScript in 100 Seconds
+7 Fancy Programming Words
+WASM + React... Easily build video editing software with JS & FFmpeg
+Session vs Token Authentication in 100 Seconds
+Web Assembly (WASM) in 100 Seconds
+Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack
+NGINX Explained in 100 Seconds
+FaunaDB Basics - The Database of your Dreams
+Kubernetes Explained in 100 Seconds
+I built a chat app in 7 minutes with React & Firebase
+The Legend of jQuery in 100 Seconds
+CSS Card Tricks
+Angular in 100 Seconds
+React in 100 Seconds
+7 Database Paradigms
+Computer Networking in 100 Seconds
+Learn Docker in 7 Easy Steps - Full Beginner's Tutorial
+Docker in 100 Seconds
+Flutter Firebase Setup for Power Users
+Firebase - Back to the Basics
+CSS Pseudo-elements :: in 100 Seconds
+CSS Pseudo-classes: in 100 Seconds
+How Tom Scott & Mr. Beast use APIs to update their videos programmatically
+Node.js Ultimate Beginner’s Guide in 7 Easy Steps
+Regular Expressions (RegEx) in 100 Seconds
+Animated CSS Login Form w/ Password Validation Meter
+Get Paid with Stripe in 100 Seconds
+Deno in 100 Seconds
+7 Full Stack App Ideas for Developers w/ Instructions Included
+Graph Search Algorithms in 100 Seconds - And Beyond with JS
+CSS Animation in 100 Seconds
+Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners
+Flutter in 100 seconds
+COBOL in 100 seconds
+Your Form was Autosaved with Vue & Firestore
+BEST Web Dev Setup? Windows & Linux at the same time (WSL)
+Vue.js Explained in 100 Seconds
+What is THIS in JavaScript? in 100 seconds
+CSS Theme Switcher by Reverse-Engineering Alligator.io
+Problem-Solving for Developers - A Beginner's Guide
+CSS Variables in 100 Seconds
+GitHub Pull Request in 100 Seconds - Git a FREE sticker 🔥
+5 Ways to DevOps-ify your App - Github Actions Tutorial
+DevOps CI/CD Explained in 100 Seconds
+The Joy of CSS Grid - Build 3 Beautifully Simple Responsive Layouts
+Learn to Code in 2020? Things are looking pretty BAD out there
+CSS Grid in 100 Seconds
+Build a Desktop App with Electron... But Should You?
+Git Explained in 100 Seconds
+Animated Responsive Navbar with CSS - Plus Other Useful Tricks
+Electron JS in 100 Seconds
+CSS Flexbox in 100 Seconds
+Beyond Console Log in 100 Seconds
+7 Security Risks and Hacking Stories for Web Developers
+Sign in with Apple from a Firebase Web App
+JavaScript Promise in 100 Seconds
+JavaScript Modules in 100 Seconds
+Recursion in 100 Seconds
+Array Reduce in 100 seconds
+Fireship without Borders & T-shirt winner(s) - Channel Update
+Big-O Notation in 100 Seconds
+Array Map in 100 Seconds
+The Future of JavaScript -  New Features and Disruptive Trends in 2020
+Cloud Computing in the Year 2020
+How to Build a Slack App
+iPod Classic UI with Flutter
+Firestore Pagination - It Just Got Easier
+Learn Binary by Building a Binary Clock with Flutter
+Visualize 140k Gun Violence Incidents with Deck.gl & Google Maps
+Stripe Payments Basics -  Including New 3D Secure Requirements for EU Customers
+An Encounter with JavaScript Objects
+100 Firebase Tips, Tricks, and Screw-ups
+GraphQL Basics - Build an app with the SpaceX API
+Firebase Analytics + Remote Config on the Web
+Firebase Extensions Quickstart
+Angular for Beginners - Let's build a Tic-Tac-Toe PWA
+What will we build next? Channel Update
+Fullstack Autocomplete Search with Algolia
+Nest on Cloud Functions
+Build a Chatbot from Scratch - Dialogflow on Node.js
+MySQL with Firebase?
+JavaScript Function - What's your Function?
+Flutter File Upload - Pick, Crop, and Save Images to the Cloud
+A Guide to Web Scraping with Node.js
+The JavaScript Survival Guide
+Transactional Email 101 📧 with SendGrid & Firebase Cloud Functions
+JavaScript: How It's Made
+In App Purchases in Flutter
+PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly
+The Weird History of JavaScript
+Smart Push Notifications with Flutter & FCM
+5 Cool New Features in AngularFire
+Nx Quickstart - How to Scale a JavaScript Project
+Top 12 Flutter Tips & Tricks
+Firebase vs AWS Amplify
+How to Become a Google Developer Expert (GDE)
+Collection Group Queries in Firestore
+Flutter Provider - Advanced Firebase Data Management
+Firebase Performance on the Web QuickStart
+Flutter Drag & Drop for Two-Year-Olds
+Svelte 3 Reaction & QuickStart Tutorial
+Scheduled Cloud Functions - NOT for Robocallers
+Firestore Data Modeling - Five Cool Techniques
+Cloud Run QuickStart - Docker to Serverless
+Firestore Increment - Counters that Scale
+Flutter Flare Basics - Let's Build Giphy's Nav Menu
+Run VS Code in the browser with massive computing resources
+RxJS Top Ten - Code This, Not That
+Reflectly-Inspired Animated Slideshow with Flutter + Firebase
+Predict Horse Races with BigQuery #ML
+Flutter State Management - The Grand Tour
+Stripe Elements & Checkout with Angular - Monetize your PWA
+Flutter Animation -  Radial Menu at 60FPS
+PWA to Google Play Store with Trusted Web Activities (TWA)
+Multiple Concurrent File Uploads with Firebase Storage + Angular
+100K... Now what? Channel Update
+Flutter Google Maps + Firestore Geolocation - Build the next Uber?
+7 Amazing Developer Tools that you're not using yet
+Beautiful Router Animations with Angular
+Top 10 Programming Languages in 90 Seconds
+The Magic of TypeScript Decorators
+Flutter Layouts for the CSS Developer
+Realtime User Presence with Firebase & Angular - Online | Offline | Away
+Lazy-Loaded Images - Code This, Not That
+Angular Universal on Cloud Functions or AppEngine
+Flutter for the JS Developer
+Cloud Build - Create a CI/CD Pipeline
+JavaScript Loops - Code This, Not That
+Flutter - Google SignIn from Scratch
+Firebase Google SignIn + Firestore w/ Angular
+Fireship.io - Channel Update
+10 Predictions about 2019 for Developers
+Object Oriented vs Functional Programming with TypeScript
+Advanced Angular Elements
+TypeScript - The Basics
+State of JavaScript - Real Analysis of Angular, React, and Vue
+Cloud Scheduler - Time Triggers for Cloud Functions
+Firestore Rules Testing with the Emulator - New Feature
+Git It? How to use Git and Github
+Angular 7 Virtual Scroll - To Infinity and Beyond
+Firestore Megachat - Let's Build a Chat App
+The Async Await Episode I Promised
+Behind the Scenes: How I make the Videos
+Draggable Sortable Firestore
+ML Engine - Machine Learning in the Cloud
+You get a Car! Live JS Pro Tips + Swag Giveaways
+JavaScript Pro Tips - Code This, NOT That
+Angular Directives - Build a Hold-to-Delete Button
+JavaScript Picks a T-Shirt Winner w/ Sound
+Google Calendar + Firebase Auth
+Ionic4 + Firebase Master Course
+Push Notifications with Ionic4 and Firebase Cloud Messaging
+The Future of Angular Firebase - Channel Update
+Big JavaScript Projects - Code Sharing
+Ionic 4 - Routing and Navigation Guide
+Host Multiple Apps or Websites on Firebase
+Custom RxJS Operators by Example
+RxFire - Firebase meets RxJS
+Puppeteer on Cloud Functions
+Ionic 4 Theme Builder with CSS Variables
+Angular Console
+Image Resize Cloud Function
+How to NOT get a 30K Firebase Bill
+Firestore Array Query
+Ionic 4: Should you Build a Hybrid App?
+Angular CDK Data Tables
+Stripe Billing - Get Paid for your SaaS
+Firestore Geoquery
+Apollo Angular GraphQL Optimistic UI
+Redux from Scratch
+Cypress End-to-End Testing
+Angular Components Beginner's Guide
+GraphQL with Apollo Server 2.0
+Angular Router - The Basics and Beyond
+VS Code Top-Ten Pro Tips
+Airtable Quick Start with Firestore
+Algolia Firestore Instant Search
+Reactive Forms  - The Basics
+Google Assistant Quick Start for Developers
+Angular CLI - The Basics
+Angular Elements Quick Start
+Episode 100 - NgConf and the Exciting Future of Angular
+Angular Universal with Firebase
+NGXS - Angular State Management
+TensorFlow.js Quick Start
+Capacitor - Five Apps in Five Minutes
+Passwordless Authentication with Firebase
+Ionic Native Push Notifications + Firebase Cloud Messaging
+Firestore Security Rules - How to Hack a Firebase App
+Firebase - Ultimate Beginner's Guide
+Ionic Google Login for iOS and Android
+Custom Ionic Splash + Animation
+Async Validation with Angular Reactive Forms + Firebase
+Model Relational Data in Firestore NoSQL
+Seefood - Ionic + Firebase + Cloud Vision
+AngularFire2 Storage -  File Upload Dropzone
+The Future of Checkout Forms - Payment Request API
+Short Imports with TypeScript Path Mapping
+Swipe, Tap, Pinch - HammerJS + Angular Animations
+Coinbase + Firebase - Build a Bitcoin App
+Role-Based Authorization with Firestore
+Angular Testing Quick Start
+Angular 5 Service Worker - Hacker News PWA
+SendGrid Transactional Email via a Firestore Cloud Function
+NgRx + Firestore
+Multi-Step Password Auth with Firebase and Reactive Forms
+Angular SEO with Rendertron
+Contentful - CMS for Angular Progressive Web Apps
+Faster Firestore via Data Aggregation
+Infinite Scroll Pagination with Firestore
+Learn @ngrx/entity and Feature Modules
+Angular Chatbot with Dialogflow (API.ai)
+Star Review System from Scratch with Firestore + Angular
+Google Sign-In with Firestore Custom User Data
+Angular HTTP Client Quick Start Tutorial
+Firestore with AngularFire5 Quick Start Tutorial
+Subscription Payments with Stripe, Angular, and Firebase
+Native Desktop Apps with Angular and Electron
+Firebase Database Performance Profiling
+Send SMS Text Messages with Twilio and Firebase
+RxJS Quick Start with Practical Examples
+Angular Ngrx with Firebase Google OAuth User Authentication
+Progressive Web Apps with Angular
+Angular Ngrx Effects with Firebase Database
+Angular ngrx Redux Quick Start Tutorial
+Location-based Queries with GeoFire and Angular Google Maps
+User Presence System in Realtime - Online, Offline, Away
+Role-Based User Permissions in Firebase
+Realtime Graphs and Charts with Plotly and Firebase
+Use TypeScript with Firebase Cloud Functions
+Infinite Scroll with Angular and Firebase
+Top 7 Ways to Debug Angular 4 Apps
+Send Push Notifications in Angular with Firebase Cloud Messaging
+Angular Reactive Forms with Firebase Database Backend
+Realtime Maps with Mapbox + Firebase + Angular
+Advanced Firebase Data Filtering (Multi-Property)
+Learn Angular Animations with 5 Examples
+Top 7 RxJS Concepts for Angular Developers
+Firebase Phone Authentication in Angular 4
+Algolia with Firebase Cloud Functions - Part 2
+Angular 4 Full Text Search with Algolia - Part 1
+Selling Digital Content in Angular with Stripe Payments - Part 3
+Process Stripe Payments with Firebase Cloud Functions - Part 2
+Stripe Checkout Payments with Angular and Firebase - Part 1
+Lazy Loading Components in Angular 4
+Learn NgModule in Angular with Examples
+Facebook-Inspired Reactions System with Angular and Firebase
+Add Toast Message Notifications to your Angular App
+How to Connect Firebase Users to their Data - 3 Methods
+Simple Pagination with Firebase and Angular 4
+Twitter-Inspired Follow Unfollow Feature with Firebase and Angular 4
+Custom Usernames with Firebase Authentication
+Text Translation with Firebase Cloud Functions onWrite and Angular 4
+Angular Drag-and-Drop File Uploads to Firebase Storage
+Reddit Inspired Upvoting System with Angular and Firebase NoSQL
+Autocomplete Search with Angular4 and Firebase
+Firebase Database Rules Tutorial
+Angular 4 Transactional Email with Google Firebase Cloud Functions
+Loading Spinners for Asynchronous Firebase Data
+Sharing Data between Components in Angular
+How to Deploy an Angular App to Firebase Hosting
+Upload Files from Angular to Firebase Storage
+Angular Firebase CRUD App with NoSQL Database Tutorial
+Angular Router Guards for Firebase Users
+Anonymous Authentication with Angular and Firebase - Lazy Registration
+OAuth with Angular and Firebase Tutorial
+Angular 4 Development and Production Environments with Firebase

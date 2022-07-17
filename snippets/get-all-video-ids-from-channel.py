@@ -1,5 +1,5 @@
 from googleapiclient import discovery
-API_KEY = "AIzaSyDi-LpZo5ULSVY3ZcS9gb8Errn-JCgrugQ"
+API_KEY = "AIzaSyDhzUyksZsIN-OsKTMNdDs_yh0_khuV90Y"
 youtube = discovery.build("youtube","v3",developerKey=API_KEY)
 
 #get channel info
@@ -14,10 +14,10 @@ def getPlaylistItemsInfo(playlist_id,page_token):
   response = request.execute()
   return response
 
-getChannelInfo("UC4JX40jDee_tINbkjycV4Sg")
+getChannelInfo("UU8butISFwT-Wl7EV0hUK0BQ")
 
 #get all the video
-playlist_id = "UU4JX40jDee_tINbkjycV4Sg"
+playlist_id = "UU8butISFwT-Wl7EV0hUK0BQ"
 page_token=None
 video_id_list = []
 while True:
@@ -34,8 +34,6 @@ while True:
     
     response = getPlaylistItemsInfo(playlist_id, page_token)
     items = response["items"]
-    
-
   
   else:
     break
@@ -43,4 +41,8 @@ while True:
 l = len(video_id_list)
 print(l)
 for i in video_id_list:
+  with open("vididlst.txt","a") as f:
+    f.write(i+"\n")
   print(i)
+
+
