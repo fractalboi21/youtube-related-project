@@ -24,8 +24,5 @@ initalNextPageToken = initialRequest.get("nextPageToken")
 
 pageTokenTracker = requests.request("GET",urlWithOutPageToken).json().get("nextPageToken")
 # send request as long as the response object contains nextPageToken
-while bool():
-    localResponse = initialRequest
-    localResponse = 
 
 
